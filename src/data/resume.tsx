@@ -5,15 +5,15 @@ import { FaDocker, FaNodeJs, FaPython } from "react-icons/fa";
 import { SiAppwrite, SiKubernetes } from "react-icons/si";
 
 export const DATA = {
-  name: "Chirag Aggarwal",
+  name: "ChungTrong",
   initials: "CA",
-  url: "https://www.chiragaggarwal.tech",
+  url: "https://chunggtrong.id.vn",
   location: "Delhi NCR, India",
   locationLink: "https://maps.app.goo.gl/Zbzok1mCik445h1C6",
   description:
     "A developer building cool solutions with open source technologies.",
   summary:
-    "I am Chirag Aggarwal, a third-year Bachelor of Technology student from India, currently studying Computer Science Engineering. As a **Full-stack Developer**, I enjoy both frontend and backend development equally. Additionally, I have a passion for content writing and conducting research on various topics, particularly in the fields of **Artificial Intelligence** and **Computer Vision**.",
+    "I am ChungTrong, a third-year Bachelor of Technology student from India, currently studying Computer Science Engineering. As a **Full-stack Developer**, I enjoy both frontend and backend development equally. Additionally, I have a passion for content writing and conducting research on various topics, particularly in the fields of **Artificial Intelligence** and **Computer Vision**.",
   avatarUrl: "/me.png",
   skills: [
     {
@@ -59,21 +59,21 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/ChiragAgg5k",
+        url: "https://github.com/ChungTrong",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/chiragagg5k/",
+        url: "https://www.linkedin.com/in/ChungTrong/",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "https://x.com/ChiragAgg5k",
+        url: "https://x.com/ChungTrong",
         icon: Icons.x,
 
         navbar: true,
@@ -184,7 +184,7 @@ export const DATA = {
   projects: [
     {
       title: "Prabhawatt",
-      href: "https://github.com/ChiragAgg5k/prabhawatt",
+      href: "https://github.com/ChungSAEer/prabhawatt",
       dates: "Nov 2024 - Present",
       active: true,
       description:
@@ -198,7 +198,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/ChiragAgg5k/prabhawatt",
+          href: "https://github.com/ChungSAEer/prabhawatt",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -220,7 +220,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/ChiragAgg5k/cal-buddy",
+          href: "https://github.com/ChungSAEer/cal-buddy",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -228,7 +228,7 @@ export const DATA = {
     },
     {
       title: "BU News",
-      href: "https://github.com/ChiragAgg5k/bu-news-android",
+      href: "https://github.com/ChungSAEer/bu-news-android",
       dates: "April 2023 - March 2023",
       active: true,
       description:
@@ -237,12 +237,12 @@ export const DATA = {
       links: [
         {
           type: "Play Store",
-          href: "https://play.google.com/store/apps/details?id=com.chiragagg5k.bu_news_android",
+          href: "https://play.google.com/store/apps/details?id=com.ChungTrong.bu_news_android",
           icon: <Play className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/ChiragAgg5k/bu-news-android",
+          href: "https://github.com/ChungSAEer/bu-news-android",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -250,7 +250,7 @@ export const DATA = {
     },
     {
       title: "Asclepius",
-      href: "https://github.com/ChiragAgg5k/asclepius",
+      href: "https://github.com/ChungSAEer/asclepius",
       dates: "Dec 2022 - Jan 2023",
       active: true,
       description:
@@ -259,7 +259,7 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/ChiragAgg5k/asclepius",
+          href: "https://github.com/ChungSAEer/asclepius",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -316,7 +316,7 @@ export const DATA = {
         },
         {
           title: "Welcome Letter",
-          href: "https://www.linkedin.com/posts/chiragagg5k_newrole-bennettuniversity-technology-activity-7097467074863636480-M1q6",
+          href: "https://www.linkedin.com/posts/ChungTrong_newrole-bennettuniversity-technology-activity-7097467074863636480-M1q6",
         },
       ],
     },

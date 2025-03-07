@@ -29,14 +29,14 @@ export const metadata: Metadata = {
     "software engineer, web developer, full stack developer, frontend developer, React developer, TypeScript, Next.js, portfolio, software development, programming",
   authors: [
     {
-      name: "Chirag Aggarwal",
+      name: "ChungTrong",
     },
   ],
   openGraph: {
     title: `${DATA.name}`,
     description: DATA.description,
     images: ["/preview.png"],
-    url: "https://www.chiragaggarwal.tech",
+    url: "https://chunggtrong.id.vn",
     siteName: `${DATA.name}'s Portfolio`,
     locale: "en_US",
     type: "website",

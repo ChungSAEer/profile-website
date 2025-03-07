@@ -6,7 +6,7 @@
 
 This is a profile website built with Next.js, Tailwind CSS, and TypeScript. It is a simple and clean website that showcases my skills and projects.
 
-Check out the live website [here](https://www.chiragaggarwal.tech/).
+Check out the live website [here](https://chunggtrong.id.vn/).
 
 ## License
 

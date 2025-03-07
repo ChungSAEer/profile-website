@@ -82,7 +82,7 @@ export default async function BlogPage() {
           Follow me on{" "}
           <Link
             className="underline text-foreground"
-            href="https://dev.to/chiragagg5k"
+            href="https://dev.to/ChungTrong"
           >
             dev.to
           </Link>{" "}
